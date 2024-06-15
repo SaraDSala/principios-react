@@ -4,8 +4,8 @@
 
 # Aprendiendo React ⚛️
 
-Aplicando los fundamentos de **React** creando proyectos utilizándolo
-</div>
+Aplicando los fundamentos de **React** creando proyectos utilizándolo<br/>
+
 
 ## ⌨️ Proyectos de React con código
 
@@ -13,3 +13,4 @@ Aplicando los fundamentos de **React** creando proyectos utilizándolo
 | --- | --- | --- | --- |
 | `01` | Twitter Follow Card | [Ver](XFollowCard) | [Visitar](#) |
 | `02` | Tic Tac Toe | [Ver](projects/02-tic-tac-toe/) | [Visitar](#) |
+</div>
